@@ -1,0 +1,15 @@
+{
+  "name": "Streamly4K",
+  "short_name": "Streamly4K",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080605",
+  "theme_color": "#080605",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
